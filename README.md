@@ -1,36 +1,29 @@
-# 👋 Hi, I'm Razzaq!  
+# 👋 Hi, I'm Shaik Mohammed Razzaq  
 
-🚀 **DevOps Engineer | Cloud & Kubernetes Enthusiast**  
-💡 Passionate about **Automation, CI/CD, and Scalable Systems**  
-
----
-
-## 🔧 Technologies & Tools  
-- **Cloud:** AWS, GCP (basics)  
-- **Containers & Orchestration:** Docker, Kubernetes  
-- **CI/CD:** GitHub Actions, Jenkins  
-- **Scripting & Coding:** Python, Bash, SQL  
-- **OS & Systems:** Linux, Networking  
+🚀 DevOps & Cloud Enthusiast | ☁️ Kubernetes | 🐧 Linux | 💻 Open Source Learner  
 
 ---
 
-## 📌 Featured Projects  
-🌟 Here are some projects I’ve worked on:  
-
-- [🔗 CI/CD Pipeline with GitHub Actions](#)  
-- [🔗 Kubernetes Deployment Examples](#)  
-- [🔗 Python Automation Scripts](#)  
-- [🔗 SQL Practice Projects](#)  
-
-*(I’ll keep adding more as I build & learn!)*  
+### 🔧 Skills & Tools
+- **Cloud & DevOps**: Docker, Kubernetes, Jenkins, Ansible  
+- **Programming & Scripting**: Python, Bash, SQL  
+- **Linux & System Administration**  
+- **Version Control**: Git, GitHub  
+- **Monitoring & CI/CD**: Prometheus, Grafana, GitHub Actions  
 
 ---
 
-## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/razzaq-sha)  
-- 📧 Email: **razzaqshaikk1234@gmail.com**  
+### 📫 Connect with Me
+- **Email**: [razzaqshaikk1234@gmail.com](mailto:razzaqshaikk1234@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/razzaq-sha](https://www.linkedin.com/in/razzaq-sha)  
 
 ---
 
-✨ *Learning, Automating, and Sharing my Tech Journey.*  
+### 🌱 Current Learning
+- Advanced Kubernetes & Cloud Native Tools  
+- System Design for DevOps Engineers  
+- Machine Learning Basics  
 
+---
+
+⭐️ *“Continuous learning is the key to growth.”*  
